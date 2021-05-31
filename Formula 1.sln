@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formula 1", "Formula 1\Formula 1.csproj", "{374F74A0-6CC9-4E0C-8021-E65EA7131634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374F74A0-6CC9-4E0C-8021-E65EA7131634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374F74A0-6CC9-4E0C-8021-E65EA7131634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374F74A0-6CC9-4E0C-8021-E65EA7131634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374F74A0-6CC9-4E0C-8021-E65EA7131634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

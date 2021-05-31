@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Formula 1/Formula 1/bin/Debug/Formula_1.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Formula 1/Formula 1/bin/Debug/Formula_1.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Formula 1/Formula 1/obj/Debug/Formula 1.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Formula 1/Formula 1/obj/Debug/Formula_1.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Formula 1/Formula 1/obj/Debug/Formula_1.pdb
